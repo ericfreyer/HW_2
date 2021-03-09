@@ -1,0 +1,96 @@
+#farmPic{
+    width: 25%;
+    height: 25%;
+
+}
+
+#examPic{
+    width: 25%;
+    height: 25%;
+}
+
+#weatherPic{
+    width: 25%;
+    height: 25%;
+}
+
+#farmDiv{
+text-align: center;
+width: 20%;
+
+}
+
+#quizDiv{
+    text-align: center;
+    width: 20%;
+}
+
+#weatherDiv{
+    text-align: center;
+    width: 20%
+}
+
+#mainDiv{
+margin: auto;
+}
+
+#footer{
+   text-align: center; 
+}
+
+.codeLink{
+    color: black;
+    text-decoration: none;
+}
+
+.codeLink:hover{
+    color: inherit;
+}
+
+#header{
+background-color: rgba(0, 0, 0, 0.041);
+margin: 25px;
+height: 50px;
+text-align: center;
+background-image: linear-gradient(to bottom right, rgb(235, 231, 226), rgb(230, 212, 201));
+width: auto;
+}
+
+#headerTwo{
+text-align: center;
+text-shadow: 2px 1px #b4919167;
+}
+
+
+
+html{
+    
+    min-height:100%;
+}
+
+.card-body{
+    background-color: rgba(242, 244, 247, 0.808);
+}
+
+.btn{
+    padding: 1px
+}
+
+#codingProjects{
+    padding-right: 12%;
+}
+
+#audioScreenshot{
+    width: 100%;
+    height:100%;
+}
+
+#farmwiseScreenshot{
+    width: 100%;
+    height:100%;
+}
+
+#weatherScreenshot{
+    width: 100%;
+    height:100%;
+}
